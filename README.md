@@ -1,5 +1,5 @@
 Pizza Client official download. Hypixel Skyblock:
-- Download: 
+
 
 NEW NOTABLE (SUPPORTER) FEATURES: Auto SS Floor 7/M7, better macros, better failsafes, better blood mob triggerbot, and more!
 
